@@ -1,4 +1,4 @@
-Rythm.js - <♫/> - v2.1.0
+<♫/> Rythm.js - v2.1.0
 ========
 
 [![Build Status](https://travis-ci.org/Okazari/Rythm.js.svg?branch=master)](https://travis-ci.org/Okazari/Rythm.js)
